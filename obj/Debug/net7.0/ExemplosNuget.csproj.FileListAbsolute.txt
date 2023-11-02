@@ -1,0 +1,17 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\bin\Debug\net7.0\ExemplosNuget.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\bin\Debug\net7.0\ExemplosNuget.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\bin\Debug\net7.0\ExemplosNuget.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\bin\Debug\net7.0\ExemplosNuget.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\bin\Debug\net7.0\ExemplosNuget.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.csproj.AssemblyReference.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.csproj.CopyComplete
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\refint\ExemplosNuget.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ExemplosNuget.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosNuget\obj\Debug\net7.0\ref\ExemplosNuget.dll
